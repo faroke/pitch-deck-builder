@@ -8,15 +8,15 @@
 ## Install
 
 ```bash
-npx skills add yourusername/pitch-deck
+npx skills add faroke/pitch-deck
 ```
 
 Or target a specific agent:
 
 ```bash
-npx skills add yourusername/pitch-deck -a claude-code
-npx skills add yourusername/pitch-deck -a cursor
-npx skills add yourusername/pitch-deck -a codex
+npx skills add faroke/pitch-deck -a claude-code
+npx skills add faroke/pitch-deck -a cursor
+npx skills add faroke/pitch-deck -a codex
 ```
 
 ## What it does

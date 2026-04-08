@@ -14,7 +14,7 @@ version: 1.0.0
 license: MIT
 authors:
   - name: Your Name
-    url: https://github.com/yourusername
+    url: https://github.com/faroke
 tags:
   - pitch
   - fundraising
