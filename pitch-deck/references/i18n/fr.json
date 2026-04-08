@@ -1,0 +1,62 @@
+{
+  "cover": "Couverture",
+  "problem": "Le Problème",
+  "solution": "La Solution",
+  "howItWorks": "Comment ça marche",
+  "businessModel": "Modèle économique",
+  "market": "Opportunité de marché",
+  "traction": "Traction",
+  "gtm": "Go-to-Market",
+  "competition": "Paysage concurrentiel",
+  "team": "L'Équipe",
+  "roadmap": "Roadmap",
+  "ask": "Notre demande",
+  "appendix": "Annexes",
+
+  "ui": {
+    "keyMetrics": "Métriques clés",
+    "milestonesReached": "Jalons franchis",
+    "nextMilestone": "Prochain jalon",
+    "useOfFunds": "Usage des fonds",
+    "withThisRound": "Avec ce tour, on atteint",
+    "advisors": "Advisors",
+    "currentAlternatives": "Alternatives actuelles",
+    "ourEdge": "Notre avantage défendable",
+    "totalAddressableMarket": "Marché total adressable",
+    "serviceableAddressableMarket": "Marché adressable réel",
+    "serviceableObtainableMarket": "Marché capturable",
+    "estimate": "estimation",
+    "source": "Source",
+    "growth": "croissance",
+    "perMonth": "/ mois",
+    "perYear": "/ an",
+    "perSeat": "/ siège",
+    "monthsPayback": "mois de payback"
+  },
+
+  "speakerNotes": {
+    "cover": "Accrochez l'attention dès les 10 premières secondes. La tagline doit être mémorable — ne pas encore expliquer le produit, juste planter le décor.",
+    "problem": "Rendez le problème viscéral. Racontez l'histoire d'un utilisateur réel si possible. Chiffrez la douleur : 'ça coûte X€/mois' ou 'ça prend X heures/semaine'.",
+    "solution": "Montrez le produit dès que possible. Une démo vaut mille slides. L'analogie ('le Doctolib de X') aide les investisseurs à catégoriser rapidement.",
+    "howItWorks": "3 étapes max. L'objectif est de montrer que c'est actionnable, pas d'expliquer l'architecture technique.",
+    "businessModel": "Les investisseurs veulent savoir si le modèle est défendable et scalable. Si vous manquez de données, dites-le clairement et présentez vos hypothèses.",
+    "market": "Sourcez vos chiffres. Les fonds VC cherchent généralement un SAM >500M€. Expliquez la logique du SOM : nombre de clients × ARPU.",
+    "traction": "Souvent la slide la plus importante. Soyez honnêtes — les investisseurs vérifieront. Si la traction est faible, mettez en avant les signaux qualitatifs (LOI, pilotes, liste d'attente).",
+    "gtm": "Montrez que vous avez testé des canaux et tiré des enseignements. 'On va faire de la pub' n'est pas une stratégie GTM.",
+    "competition": "N'ignorez JAMAIS les concurrents — ça tue la crédibilité. Reconnaissez leurs forces, puis montrez en quoi votre approche est différente ou meilleure.",
+    "team": "Les investisseurs financent les équipes autant que les idées. Montrez pourquoi VOUS êtes les mieux placés pour résoudre ce problème.",
+    "roadmap": "La roadmap montre que vous savez prioriser. Liez chaque item post-levée à l'usage des fonds sur la slide suivante.",
+    "ask": "Soyez précis sur l'usage des fonds. 'Développer le produit' ne suffit pas. Montrez quel milestone ce tour débloque et pourquoi c'est le bon moment de lever."
+  },
+
+  "locale": {
+    "code": "fr-FR",
+    "currency": "EUR",
+    "currencySymbol": "€",
+    "thousandsSep": " ",
+    "decimalSep": ",",
+    "millionSuffix": "M€",
+    "billionSuffix": "Md€",
+    "dateFormat": "MMM YYYY"
+  }
+}

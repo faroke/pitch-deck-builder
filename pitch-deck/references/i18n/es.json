@@ -1,0 +1,62 @@
+{
+  "cover": "Portada",
+  "problem": "El Problema",
+  "solution": "La Solución",
+  "howItWorks": "Cómo funciona",
+  "businessModel": "Modelo de negocio",
+  "market": "Oportunidad de mercado",
+  "traction": "Tracción",
+  "gtm": "Estrategia GTM",
+  "competition": "Panorama competitivo",
+  "team": "El Equipo",
+  "roadmap": "Hoja de ruta",
+  "ask": "Lo que buscamos",
+  "appendix": "Apéndice",
+
+  "ui": {
+    "keyMetrics": "Métricas clave",
+    "milestonesReached": "Hitos alcanzados",
+    "nextMilestone": "Próximo hito",
+    "useOfFunds": "Uso de los fondos",
+    "withThisRound": "Con esta ronda alcanzamos",
+    "advisors": "Asesores",
+    "currentAlternatives": "Alternativas actuales",
+    "ourEdge": "Nuestra ventaja defensible",
+    "totalAddressableMarket": "Mercado total direccionable",
+    "serviceableAddressableMarket": "Mercado alcanzable",
+    "serviceableObtainableMarket": "Mercado obtenible",
+    "estimate": "estimación",
+    "source": "Fuente",
+    "growth": "crecimiento",
+    "perMonth": "/ mes",
+    "perYear": "/ año",
+    "perSeat": "/ usuario",
+    "monthsPayback": "meses de recuperación"
+  },
+
+  "speakerNotes": {
+    "cover": "Capte la atención en los primeros 10 segundos. El slogan debe ser memorable.",
+    "problem": "Haga el problema visceral. Cuente la historia de un usuario real si es posible. Cuantifique el dolor.",
+    "solution": "Muestre el producto lo antes posible. Una demo vale más que cualquier diapositiva.",
+    "howItWorks": "Máximo 3 pasos. El objetivo es mostrar que es accionable, no explicar la arquitectura técnica.",
+    "businessModel": "Los inversores quieren saber si el modelo es defendible y escalable.",
+    "market": "Cite sus fuentes. Los fondos de VC suelen buscar un SAM >500M€.",
+    "traction": "A menudo la diapositiva más importante. Sea honesto — los inversores verificarán.",
+    "gtm": "Muestre que ha probado canales y extraído aprendizajes.",
+    "competition": "NUNCA ignore a los competidores — destruye la credibilidad.",
+    "team": "Los inversores financian equipos tanto como ideas. Muestre por qué USTEDES son los indicados.",
+    "roadmap": "La hoja de ruta muestra que sabe priorizar.",
+    "ask": "Sea preciso sobre el uso de los fondos. Muestre qué hito desbloquea esta ronda."
+  },
+
+  "locale": {
+    "code": "es-ES",
+    "currency": "EUR",
+    "currencySymbol": "€",
+    "thousandsSep": ".",
+    "decimalSep": ",",
+    "millionSuffix": "M€",
+    "billionSuffix": "MM€",
+    "dateFormat": "MMM YYYY"
+  }
+}

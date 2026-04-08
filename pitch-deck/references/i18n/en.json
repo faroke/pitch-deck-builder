@@ -1,0 +1,62 @@
+{
+  "cover": "Cover",
+  "problem": "The Problem",
+  "solution": "The Solution",
+  "howItWorks": "How It Works",
+  "businessModel": "Business Model",
+  "market": "Market Opportunity",
+  "traction": "Traction",
+  "gtm": "Go-to-Market",
+  "competition": "Competitive Landscape",
+  "team": "The Team",
+  "roadmap": "Roadmap",
+  "ask": "The Ask",
+  "appendix": "Appendix",
+
+  "ui": {
+    "keyMetrics": "Key Metrics",
+    "milestonesReached": "Milestones reached",
+    "nextMilestone": "Next milestone",
+    "useOfFunds": "Use of funds",
+    "withThisRound": "With this round, we reach",
+    "advisors": "Advisors",
+    "currentAlternatives": "Current alternatives",
+    "ourEdge": "Our defensible advantage",
+    "totalAddressableMarket": "Total Addressable Market",
+    "serviceableAddressableMarket": "Serviceable Addressable Market",
+    "serviceableObtainableMarket": "Serviceable Obtainable Market",
+    "estimate": "estimate",
+    "source": "Source",
+    "growth": "growth",
+    "perMonth": "/ mo",
+    "perYear": "/ yr",
+    "perSeat": "/ seat",
+    "monthsPayback": "months payback"
+  },
+
+  "speakerNotes": {
+    "cover": "Hook the room in the first 10 seconds. The tagline should be memorable — don't explain the product yet, just set the stage.",
+    "problem": "Make the problem visceral. Tell the story of a real user if possible. Quantify the pain: 'it costs $X/month' or 'takes X hours/week'.",
+    "solution": "Show the product as soon as possible. A live demo beats any slide. The analogy ('the X for Y') helps investors categorise you quickly.",
+    "howItWorks": "Keep it to 3 steps max. The goal is to show it's actionable, not to explain the technical architecture.",
+    "businessModel": "Investors want to know if the model is defensible and scalable. If you lack data, say so clearly and present your assumptions.",
+    "market": "Source your numbers. VCs typically want a SAM >$500M. Walk through the SOM logic: number of customers × ARPU.",
+    "traction": "Often the most important slide. Be honest — investors will verify. If traction is thin, highlight qualitative signals (LOIs, pilots, waitlists).",
+    "gtm": "Show you've tested channels and drawn lessons. 'We'll run ads' is not a GTM strategy.",
+    "competition": "Never ignore competitors — it kills credibility. Acknowledge their strengths, then show why your approach is different or better.",
+    "team": "Investors fund teams as much as ideas. Highlight why YOU are uniquely positioned to solve this problem.",
+    "roadmap": "The roadmap shows you can prioritise. Link each post-raise item to the use of funds on the next slide.",
+    "ask": "Be specific about use of funds. 'Grow the product' is not enough. Show what milestone this round unlocks and why now is the right time to raise."
+  },
+
+  "locale": {
+    "code": "en-US",
+    "currency": "USD",
+    "currencySymbol": "$",
+    "thousandsSep": ",",
+    "decimalSep": ".",
+    "millionSuffix": "M",
+    "billionSuffix": "B",
+    "dateFormat": "MMM YYYY"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "cover": "Titelfolie",
+  "problem": "Das Problem",
+  "solution": "Die Lösung",
+  "howItWorks": "So funktioniert es",
+  "businessModel": "Geschäftsmodell",
+  "market": "Marktchance",
+  "traction": "Traktion",
+  "gtm": "Go-to-Market",
+  "competition": "Wettbewerbslandschaft",
+  "team": "Das Team",
+  "roadmap": "Roadmap",
+  "ask": "Unsere Anfrage",
+  "appendix": "Anhang",
+
+  "ui": {
+    "keyMetrics": "Kennzahlen",
+    "milestonesReached": "Erreichte Meilensteine",
+    "nextMilestone": "Nächster Meilenstein",
+    "useOfFunds": "Mittelverwendung",
+    "withThisRound": "Mit dieser Runde erreichen wir",
+    "advisors": "Berater",
+    "currentAlternatives": "Aktuelle Alternativen",
+    "ourEdge": "Unser verteidigbarer Vorteil",
+    "totalAddressableMarket": "Gesamtadressierbarer Markt",
+    "serviceableAddressableMarket": "Erreichbarer Markt",
+    "serviceableObtainableMarket": "Gewinnbarer Markt",
+    "estimate": "Schätzung",
+    "source": "Quelle",
+    "growth": "Wachstum",
+    "perMonth": "/ Monat",
+    "perYear": "/ Jahr",
+    "perSeat": "/ Nutzer",
+    "monthsPayback": "Monate Amortisation"
+  },
+
+  "speakerNotes": {
+    "cover": "Fesseln Sie die Aufmerksamkeit in den ersten 10 Sekunden. Der Slogan sollte einprägsam sein — noch kein Produkt erklären, nur den Rahmen setzen.",
+    "problem": "Machen Sie das Problem greifbar. Erzählen Sie wenn möglich die Geschichte eines echten Nutzers. Beziffern Sie den Schmerz.",
+    "solution": "Zeigen Sie das Produkt so früh wie möglich. Eine Demo ist besser als jede Folie.",
+    "howItWorks": "Maximal 3 Schritte. Ziel ist zu zeigen, dass es umsetzbar ist — keine technische Architektur erklären.",
+    "businessModel": "Investoren wollen wissen, ob das Modell verteidigbar und skalierbar ist.",
+    "market": "Belegen Sie Ihre Zahlen mit Quellen. VCs erwarten typischerweise einen SAM >500M€.",
+    "traction": "Oft die wichtigste Folie. Seien Sie ehrlich — Investoren werden nachprüfen.",
+    "gtm": "Zeigen Sie, dass Sie Kanäle getestet und Erkenntnisse gewonnen haben.",
+    "competition": "Ignorieren Sie Wettbewerber NIE — das zerstört Glaubwürdigkeit.",
+    "team": "Investoren finanzieren Teams genauso wie Ideen. Zeigen Sie, warum SIE die Richtigen sind.",
+    "roadmap": "Die Roadmap zeigt, dass Sie priorisieren können.",
+    "ask": "Seien Sie präzise bei der Mittelverwendung. Zeigen Sie, welchen Meilenstein diese Runde freischaltet."
+  },
+
+  "locale": {
+    "code": "de-DE",
+    "currency": "EUR",
+    "currencySymbol": "€",
+    "thousandsSep": ".",
+    "decimalSep": ",",
+    "millionSuffix": "Mio. €",
+    "billionSuffix": "Mrd. €",
+    "dateFormat": "MMM YYYY"
+  }
+}
