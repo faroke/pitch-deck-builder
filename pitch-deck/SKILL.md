@@ -1,5 +1,5 @@
 ---
-name: pitch-deck
+name: pitch-deck-builder
 description: >
   Create professional pitch decks for fundraising (pre-seed, seed, Series A and beyond).
   Use this skill whenever the user wants to create a pitch deck, investor presentation,

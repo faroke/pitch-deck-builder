@@ -1,4 +1,4 @@
-# pitch-deck
+# pitch-deck-builder
 
 > A skill for AI agents to create professional investor pitch decks — with live preview, i18n, and PPTX export.
 
@@ -8,15 +8,15 @@
 ## Install
 
 ```bash
-npx skills add faroke/pitch-deck
+npx skills add faroke/pitch-deck-builder
 ```
 
 Or target a specific agent:
 
 ```bash
-npx skills add faroke/pitch-deck -a claude-code
-npx skills add faroke/pitch-deck -a cursor
-npx skills add faroke/pitch-deck -a codex
+npx skills add faroke/pitch-deck-builder -a claude-code
+npx skills add faroke/pitch-deck-builder -a cursor
+npx skills add faroke/pitch-deck-builder -a codex
 ```
 
 ## What it does
@@ -70,7 +70,7 @@ This skill follows the [Agent Skills open standard](https://agentskills.io) and 
 ## Structure
 
 ```
-pitch-deck/
+pitch-deck-builder/
 ├── SKILL.md                        ← Agent instructions
 └── references/
     ├── slides-template.md          ← Full 12-slide Slidev template
